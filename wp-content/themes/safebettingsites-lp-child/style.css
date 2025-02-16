@@ -9,7 +9,7 @@
     --base-color: #2b2e34;
     --black-color-rgb: 0, 0, 0;
     --black-color: #000000;
-    --black-color-100: #101820FF;
+    --black-color-100: #435e55ff;
     --black-color-200: #2b2e34;
     --blue-color-primary: #2c7eea;
     --blue-color-500: #000d1f;
@@ -23,7 +23,7 @@
     --green-100: #1dd75f;
     --green-primary: #1ed760;
     --primary-yellow-100: #ffca00;
-    --primary-red-100: #fee715ff;
+    --primary-red-100: #d64161ff;
     --primary-red-50: #fef5f6;
     --bg-opacity-10: 0.1;
     --bg-opacity-20: 0.2;
@@ -75,12 +75,12 @@ h2 {
 }
 
 h1 span {
-    color: #fee715ff;
+    color: #d64161ff;
 }
 
 h5 {
     font-size: 14px;
-    color: #fee715ff;
+    color: #d64161ff;
     font-family: "Conv_Inter-Bold";
     letter-spacing: unset;
     margin: 0 0 15px;
@@ -110,7 +110,7 @@ header.HeadCon {
 }
 
 .TopSecOuter {
-    background-color: #101820FF;
+    background-color: #435e55ff;
     width: 100%;
     padding-bottom: 35px;
 }
@@ -134,7 +134,7 @@ h1 {
 }
 
 h1 span {
-    color: #fee715ff;
+    color: #d64161ff;
 }
 
 .TopLeft {
@@ -275,7 +275,7 @@ ul {
     border-radius: 10px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #101820FF;
+    background-color: #435e55ff;
     display: flex;
     align-items: center;
     min-height: 180px;
@@ -361,7 +361,7 @@ h3 {
 h3 i {
     width: 60px;
     height: 60px;
-    background: #101820FF;
+    background: #435e55ff;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -412,7 +412,7 @@ h3 i {
 }
 
 .Sec04 {
-    background: radial-gradient(circle at 50% 130%, #5a5f29, #4d5629, #424c29, #3e4229, #383b29, #343728, #313227, #2b2c24);
+    background: #435e55ff;
     padding: 60px 0;
 }
 
@@ -536,19 +536,15 @@ h3 i {
 }
 
 .Content02:first-child {
-    border-color: #101820FF;
+    border-color: #435e55ff;
 }
-
-
-
-
 
 .Sec05 {
     padding: 20px 0 38px;
 }
 
 footer.FootCon {
-    background-color: #101820FF;
+    background-color: #435e55ff;
     padding: 62px 00 0;
 }
 
@@ -650,11 +646,11 @@ footer.FootCon {
     left: 0;
     top: 25px;
     height: 2px;
-    background-color: #fee715ff;
+    background-color: #d64161ff;
 }
 
 .Head02 span {
-    background-color: #101820FF;
+    background-color: #435e55ff;
     padding: 0 20px;
     display: inline-block;
     position: relative;
@@ -906,7 +902,7 @@ footer.FootCon {
     .TopRight h5 span {
         position: relative;
         z-index: 1;
-        background-color: #101820FF;
+        background-color: #435e55ff;
         padding: 0 20px;
         display: inline-block;
         font-size: 20px;
@@ -2801,7 +2797,7 @@ p:empty {
 }
 .advertiser_disclosure_popup .model_popup .svg-cross,
 .apply_18_popup .model_popup .svg-cross {
-    fill: #101820FF;
+    fill: #435e55ff;
     cursor: pointer;
     position: absolute;
     right: 1rem;
@@ -3286,12 +3282,12 @@ p:empty {
 }
 
 .header i {
-    color: #101820FF;
+    color: #435e55ff;
     font-size: 32px;
     text-align: center;
 }
 .cookie-wrapper h2 {
-    color: #101820FF !important;
+    color: #435e55ff !important;
     font-weight: 500;
     text-align: center;
     padding-top: 10px;
@@ -3300,7 +3296,7 @@ p:empty {
     text-align: center;
 }
 .data p a {
-    color: #101820FF;
+    color: #435e55ff;
     text-decoration: none;
     text-align: center !important;
 }
@@ -3312,10 +3308,10 @@ p:empty {
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #101820FF;
+    border: 2px solid #435e55ff;
     color: #fff;
     padding: 8px 0;
-    background: #101820FF;
+    background: #435e55ff;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.2s ease;
@@ -3324,15 +3320,15 @@ p:empty {
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #101820FF;
+    color: #435e55ff;
 }
 #declineBtn {
     background-color: #fff;
-    color: #101820FF;
+    color: #435e55ff;
     border-radius: 0;
 }
 #declineBtn:hover {
-    background-color: #101820FF;
+    background-color: #435e55ff;
     color: #fff;
 }
 select {
