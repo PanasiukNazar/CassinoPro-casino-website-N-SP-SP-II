@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 125 31" width="125" height="31">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+		.shp1 { fill-opacity: 0.502;fill: #101820FF } 
+		.shp2 { fill: #ffe401 } 
+	</style>
+	<g id="Folder 1">
+		<path id="Rectangle 1136" class="shp0" d="M0 18L5 18L5 31L0 26L0 18Z" />
+		<path id="Rectangle 1135" class="shp1" d="M0 3L124 3L118 13.44L124 24L4.94 24L0 29L0 3Z" />
+		<path id="Rectangle 1135 copy" class="shp2" d="M0 0L124 0L118 10.44L124 21L4.94 21L0 26L0 0Z" />
+	</g>
+</svg>
